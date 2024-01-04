@@ -1,10 +1,10 @@
-Ethan Ward - Web Developer from New York
+Najmuddin - Web Developer from New Delhi
 
 
 
 #---------- HEADER ----------#
 
-Ethan Ward
+Mohammad Najmuddin
 
 aria-label = Toggle Menu
 
@@ -24,25 +24,25 @@ Download CV
 
 #---------- HERO ----------#
 
-alt = Ethan's Photo
+alt = najam's photo
 
-12
+2
 Years of Success
 
-800+
+4+
 Projects Completed
 
 <ion-icon name="trophy"></ion-icon>
 
-alt = I'm developer from New York
+alt = I'm developer from New Delhi
 
 Hello I'm
 
-Ethan Ward
+Mohammad Najmuddin
 
-Web Developer from New York
+Web Developer from New Delhi
 
-Adipisicing elit. Neque nulla voluptatum eos repellat deserunt nesciunt tempore porro totam.
+Crafting Digital Experiences: Innovative Web Developer Passionate About Design, Code, and User-Centric Solutions for Seamless Online Interactions and Exceptional User Journeys.
 
 Get a Quote
 
@@ -52,10 +52,6 @@ About Me
 
 #---------- ABOUT ----------#
 
-alt = Ethan's Photo
-
-alt = Ethan's Photo
-
 <ion-icon name="logo-css3"></ion-icon>
 <ion-icon name="logo-javascript"></ion-icon>
 <ion-icon name="logo-angular"></ion-icon>
@@ -64,9 +60,7 @@ I'm a Developer
 
 I Develop Application that Help People
 
-Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatu epteur sint occaecat cupidatat
-
-Krnon proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis
+As an adept web developer hailing from India, I bring a wealth of expertise in crafting exceptional online experiences. Proficient in diverse technologies, I deliver innovative, high-quality solutions tailored to meet global standards. Embracing a collaborative and detail-oriented approach, I thrive in transforming ideas into seamlessly functional and visually appealing websites. With a commitment to staying current with industry trends and a passion for coding excellence, I am dedicated to exceeding expectations and contributing to the success of web projects on a global scale.
 
 View Portfolio
 
@@ -78,11 +72,11 @@ Portfolio
 
 My Amazing Works
 
-Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehen derit in voluptate
+Accept challenges as stepping stones, for turning dreams into reality
 
-Youtube
+Bike sell
 
-Web Application for Desiverse
+Web Application for bike selling
 
 View Project 
 <ion-icon name="arrow-forward"></ion-icon>
@@ -101,7 +95,10 @@ My Skills
 
 I Develop Skills Regularly
 
-Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehen derit in voluptate
+Accept challenges as stepping stones, for turning dreams into reality
+
+HTML
+95%
 
 CSS
 95%
@@ -115,7 +112,7 @@ MongoDB
 Python
 70%
 
-PHP
+SQL
 80%
 
 JavaScript
@@ -139,15 +136,14 @@ Submit Message
 
 <ion-icon name="location"></ion-icon>
 Address
-20, London, United Kingdom
-
+Batla house ,New Delhi,Delhi
 <ion-icon name="mail"></ion-icon>
 Email
-hello@ethan.com
+mohdnajmuddin8542@gmail.com
 
 <ion-icon name="call"></ion-icon>
 Phone
-+123 456 7890
+
 
 
 
@@ -157,19 +153,14 @@ Latest News
 
 Checkout My Recent Blogs
 
-Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehen derit in voluptate
 
-alt = Jim Morisson Says when the musics over turn off the light
 
 Web Development
-
-Jim Morisson Says when the musics over turn off the light
-
 
 
 #---------- FOOTER ----------#
 
-&copy; 2022 codewithsadee. All Rights Reseverd
+&copy; 2022 codewithnajmuddin. All Rights Reseverd
 
 Terms & Condition 
 Privacy Policy
