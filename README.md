@@ -1,7 +1,9 @@
 <div align="center">
   
+
   ![GitHub repo size](https://img.shields.io/github/repo-size/mdnajam065/portfolio)
-  
+
+
   <br />
   <br />
 
@@ -43,7 +45,9 @@ git clone https://github.com/mdnajam065/portfolio.git
 
 ### Contact
 
-<!-- If you want to contact with me you can reach me at [Twitter](). -->
+
+If you want to contact with me you can reach me at [Twitter]("NULL").
+
 
 ### License
 
