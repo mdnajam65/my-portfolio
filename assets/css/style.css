@@ -188,9 +188,6 @@ body {
 .btn-primary.blue { background-color: var(--klein-blue); }
 
 .btn-primary.blue:is(:hover, :focus) { background-color: var(--orange-soda); }
-.img-cover1{
-  height: 400px;
-}
 
 .img-cover {
   width: 100%;
@@ -655,7 +652,12 @@ textarea.contact-input {
   margin-left: 0px;
   text-align: center;
 }
-
+@media((min-width:200px) and (max-width:400px)){
+  .logo{
+    text-align: start;
+    font-size: 2rem;
+  }
+}
 .footer-list * { display: inline-block; }
 
 .footer-list > li:not(:last-child) { margin-inline-end: 40px; }
@@ -732,7 +734,6 @@ textarea.contact-input {
   height: 1px;
   background-color: var(--white);
 }
-
 
 
 
