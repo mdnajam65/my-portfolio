@@ -409,6 +409,9 @@ body {
   color: var(--white);
   font-weight: var(--fw-600);
   transition: var(--transition-2);
+  background-image: url('/assets/images/portfolio-1.jpg');
+  background-size: cover;
+  background-position: center;
 }
 
 .portfolio-list > li:nth-child(even) .card-content { margin-inline-start: auto; }
